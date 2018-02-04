@@ -159,7 +159,8 @@
             },
             ".mbr-section-lead B": {
               "color": "#fac51c",
-              "font-size": "36px"
+              "font-size": "36px",
+              "text-align": "left"
             },
             ".mbr-section-title I": {
               "color": "#f7da64"
@@ -174,7 +175,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1624x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2666.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {

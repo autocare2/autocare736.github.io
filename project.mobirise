@@ -24,7 +24,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 11,
-    "versionPublish": "4.6.3",
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -105,12 +105,6 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
             "bgColor": "#282828",
             "fontSize": "1.2",
             "fontName": {
@@ -119,7 +113,13 @@
               "css": "'Open Sans', sans-serif"
             },
             "fontColor": "#b8312f",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -137,7 +137,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3624.9620330537628!2d46.72673708888233!3d24.693831847271117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8edf480cc55e7d16!2z2KfZiNiq2YjZg9mK2LE!5e0!3m2!1sar!2ssa!4v1517732271281&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">autocare</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3624.9620330537628!2d46.72673708888233!3d24.693831847271117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8edf480cc55e7d16!2z2KfZiNiq2YjZg9mK2LE!5e0!3m2!1sar!2ssa!4v1517732271281&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">ِAUTOCARE</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">الخدمات المتوفرة</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">النانوسيراميك</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://photos.google.com/u/1/?pageId=none\" target=\"_blank\">صور لاعمال النانوسيراميك</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://www.xzilon.com/\" target=\"_blank\">المنتجات المستخدمة لاعمال النانوسيراميك<br></a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">التظليل الحراري</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://photos.google.com/u/1/?pageId=none\" target=\"_blank\">صور بعض اعمال التظليل</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">حماية واجهة السيارة</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://photos.google.com/u/1/?pageId=none\">صور لبعض أعمال الحماية</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://solutions.3m.com.sa/wps/portal/3M/en_SA/Car_Care_Home/Home/\" target=\"_blank\">المنتجات التي نستخدمها في الحماية&nbsp;</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://photos.google.com/u/1/?pageId=none\" target=\"_blank\">التلميع الداخلي و الخارجي</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://photos.google.com/u/1/?pageId=none\" target=\"_blank\">التنجيد</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://photos.google.com/u/1/?pageId=none\" target=\"_blank\">تركيب شاشات</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">الدعم الفني&nbsp;</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ارقام التواصل</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">0544087250 نافع</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">الاقتراحات و الملاحظات</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">0549999669 &nbsp; الادارة&nbsp;</a></div></div></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">الاقتراحات</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mailto:autcaresst@gmail.com\">autcaresst@gmail.com</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://goo.gl/maps/CuQFRujfniP2\" target=\"_blank\">موقعنا</a></li>"
         },
         {
@@ -172,23 +172,23 @@
           },
           "_anchor": "header1-1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2666.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2666.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "overlayOpacity": "0.5"
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "title": "<i style=\"line-height: 1.1;\">اوتوكير للعناية بالسيارات</i><br><i><br></i><i><br></i>",
           "text": "<br><b>&nbsp;AUTOCARE مؤسسة العناية الذاتية</b><br><b><br>عزل حراري أمريكيsuntek</b><b><br>حماية واجهة السيارات من الترميل بأفضل الافلام الامريكية<br>تفصيل جلد لمقاعد السيارات<br>تفصل مخمل لمقاعد السيارات<br>تركيب عازل بلاستيك لارضية السيارات<br>التلميع الداخلي و الخارجي بأفضل المواد الالمانية<br>تركيب كافة انواع الشاشات و الانوار<br>حماية نانوسيراميك &nbsp;خارجية لبدي السيارة بالكامل <br>حماية نانوسيراميك داخلية&nbsp;</b>",
@@ -201,13 +201,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#323232",
+            "bgColorRadio": true,
             "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
         },
@@ -233,25 +233,25 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
             "imageSize": 50,
             "paddingTop": "6",
             "paddingBottom": "6",
+            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
+            "bgVideoRadio": false,
             "overlay": true,
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
           "media": {
             "image": {

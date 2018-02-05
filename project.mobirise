@@ -160,12 +160,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-lead B": {
-              "color": "#e25041",
+              "color": "#d10000",
               "font-size": "36px",
               "text-align": "left"
             },
             ".mbr-section-title I": {
-              "color": "#f7da64"
+              "color": "#b8312f"
             },
             ".btn": {
               "font-family": "'Oswald', sans-serif",
@@ -192,8 +192,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<i style=\"line-height: 1.1;\"><br></i><br><i style=\"line-height: 1.1;\">اوتوكير للعناية بالسيارات</i><i style=\"line-height: 1.1;\"><br></i><br><i><br></i>",
-          "text": "<br><b>&nbsp;AUTOCARE مؤسسة العناية الذاتية</b><br><b><br>عزل حراري أمريكيsuntek</b><b><br>حماية واجهة السيارات من الترميل بأفضل الافلام الامريكية<br>تفصيل جلد لمقاعد السيارات<br>تفصل مخمل لمقاعد السيارات<br>تركيب عازل بلاستيك لارضية السيارات<br>التلميع الداخلي و الخارجي بأفضل المواد الالمانية<br>تركيب كافة انواع الشاشات و الانوار<br>حماية نانوسيراميك &nbsp;خارجية لبدي السيارة بالكامل <br>حماية نانوسيراميك داخلية&nbsp;</b>",
+          "title": "<i style=\"line-height: 1.1;\"><br></i><br><i style=\"line-height: 1.1;\">اوتوكير للعناية بالسيارات</i><i style=\"line-height: 1.1;\"><br></i><i><br></i>",
+          "text": "<br><b>&nbsp;AUTOCARE مؤسسة العناية الذاتية</b><b><br>عزل حراري أمريكيsuntek</b><b><br>حماية واجهة السيارات من الترميل بأفضل الافلام الامريكية<br>تفصيل جلد لمقاعد السيارات<br>تفصل مخمل لمقاعد السيارات<br>تركيب عازل بلاستيك لارضية السيارات<br>التلميع الداخلي و الخارجي بأفضل المواد الالمانية<br>تركيب كافة انواع الشاشات و الانوار<br>حماية نانوسيراميك &nbsp;خارجية لبدي السيارة بالكامل <br>حماية نانوسيراميك داخلية&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.instagram.com/autocare2/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>انستقرام : AUTOCARE2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://accounts.snapchat.com/accounts/snapcodes\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-snapchat mbr-iconfont mbr-iconfont-btn\"></span>سناب شات : autocare.f83</a>   <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://twitter.com/AUTOCARE2\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span>تويتر &nbsp;: AUTOCARE2</a>"
         },
         {
